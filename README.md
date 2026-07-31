@@ -6,7 +6,7 @@ A simple and interactive **Face Detection Web Application** built using **Python
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** *Add your Streamlit link here after deployment*
+🔗 **Live App:** https://face-detection-aiml.streamlit.app/
 
 Example:
 
