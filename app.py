@@ -19,7 +19,7 @@ st.divider()
 # -----------------------------
 # Load Face Detector
 # -----------------------------
-cascade_path = "haarcascade_frontalface_default.xml"
+cascade_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
 
 face_detector = cv2.CascadeClassifier(cascade_path)
 
